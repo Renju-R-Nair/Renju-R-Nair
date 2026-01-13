@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Tools         |
 |-----------------------------------------------|----------------------------|
-| Offensive and Pentesting          | Nmap;Metasploit;Burp suite;SQLMap;Hydra;John;Steghide |
-| Network Traffic Monitoring and Attack Detection | Wireshark;Traffic filtering;Protocol analysis |
-| Scripting         | Python;Bash|
-| Web & App Security      | OWASP testing;HTML;CSS;JavaScript|
+| Offensive and Pentesting          | Nmap ; Metasploit ; Burp suite ; SQLMap ; Hydra ; John ; Steghide |
+| Network Traffic Monitoring and Attack Detection | Wireshark ; Traffic filtering ; Protocol analysis |
+| Scripting         | Python ; Bash|
+| Web & App Security      | OWASP testing ; HTML ; CSS ; JavaScript|
 | Logging & Monitoring                  | Splunk |
-| Foundational Language & Databases | c;c++;Java;MySQL|
+| Foundational Language & Databases | c ; c++ ; Java ; MySQL|
 
 
 ### Network
