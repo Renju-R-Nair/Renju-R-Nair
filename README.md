@@ -1,27 +1,24 @@
 # Hello, I'm RENJU R NAIR
 <a href="https://www.linkedin.com/in/renju-r-nair-a94065295"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Motivated cybersecurity fresher with hands‑on lab experience in penetration testing, traffic analysis, and scripting (Bash, PowerShell). Familiar with Nmap, Metasploit, Wireshark, Burp Suite, and Splunk. I enjoy solving security challenges, performing system enumeration, and learning post‑exploitation techniques.
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+| Skill                                         | Associated Tools         |
+|-----------------------------------------------|----------------------------|
+| Offensive and Pentesting          | Nmap;Metasploit;Burp suite;SQLMap;Hydra;John;Steghide |
+| Network Traffic Monitoring and Attack Detection | Wireshark;Traffic filtering;Protocol analysis |
+| Scripting         | Python;Bash|
+| Web & App Security      | OWASP testing;HTML;CSS;JavaScript|
+| Logging & Monitoring                  | Splunk |
+| Foundational Language & Databases | c;c++;Java;MySQL|
+
 
 ### Network
 <div>
