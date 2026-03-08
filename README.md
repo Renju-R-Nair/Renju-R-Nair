@@ -34,6 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CEH-0072b1?&style=for-the-badge&logo=ec-council&logoColor=white" />
+<img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png&style=for-the-badge&logo=ec-council&logoColor=white" />
 </div>
 
 ## Projects
