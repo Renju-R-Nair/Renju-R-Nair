@@ -1,5 +1,6 @@
 # Hello, I'm RENJU R NAIR
 <a href="https://www.linkedin.com/in/renju-r-nair-a94065295"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@renjurnair2003"><img src="https://img.shields.io/badge/-Medium-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Motivated cybersecurity fresher with hands‑on lab experience in penetration testing, traffic analysis, and scripting (Bash, PowerShell). Familiar with Nmap, Metasploit, Wireshark, Burp Suite, and Splunk. I enjoy solving security challenges, performing system enumeration, and learning post‑exploitation techniques.
 
