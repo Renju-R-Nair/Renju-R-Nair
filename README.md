@@ -38,4 +38,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Home Lab <br>
--SIEM-Based Security Monitoring and Incident Analysis (Splunk) 
+- SIEM-Based Security Monitoring and Incident Analysis (Splunk) 
